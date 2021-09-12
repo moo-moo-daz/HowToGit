@@ -1,3 +1,3 @@
 This is [HowToGit] file.
 
-Editted By BranchB.
+Editted By BranchA & BrunchB.
